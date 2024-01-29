@@ -1,0 +1,38 @@
+[
+    {
+        "name": "ASIA SCOUT ONLY NoSpread Off",
+        "ip": "139.99.115.88",
+        "port": 26930,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "ASIA ALL WEAPONS 16K NoSpread Off",
+        "ip": "157.254.166.0",
+        "port": 30007,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "NA ALL WEAPONS 16K NoSpread Off",
+        "ip": "15.204.196.155",
+        "port": 30039,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "INDIA 16K NoSpread Off",
+        "ip": "143.244.134.122",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    },
+    {
+        "name": "Japan 16K NoSpread Off",
+        "ip": "172.65.191.196",
+        "port": 27015,
+        "map": "de_mirage",
+        "status": true
+    }
+ 
+]
